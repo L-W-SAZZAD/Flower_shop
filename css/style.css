@@ -362,7 +362,7 @@ body {
   border: none;
   outline: none;
   border-radius: 8px;
-  background: linear-gradient(60deg, rgb(26, 26, 27), skyblue);
+  background: linear-gradient(60deg, #e55473, #e55473);
   font-size: 20px;
   font: 700;
   color: #fff;
